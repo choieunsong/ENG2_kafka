@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # Materials for Kafka learning
 
 This is a collection of materials to learn the basics of [Apache Kafka](https://kafka.apache.org/).
@@ -14,7 +16,7 @@ To bring up a small KRaft-based Kafka cluster and a [`kafka-ui`](https://github.
 Open [this link](https://open.docker.com/dashboard/dev-envs?url=https://github.com/agarciadom/kafka-materials/tree/main).
 
 When asked for a name by Docker Desktop, enter `kafka-materials`.
-*NOTE*: if you do not do this, the scripts in the `scripts` folder will not work!
+_NOTE_: if you do not do this, the scripts in the `scripts` folder will not work!
 
 ### Docker Compose
 
